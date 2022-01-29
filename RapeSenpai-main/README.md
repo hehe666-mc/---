@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hehe666-mc/RapeSenpai/index.html"><img src="https://github.com/hehe666-mc/---/tree/main/RapeSenpai-main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://github.com/hehe666-mc/---/tree/main/RapeSenpai-main/index.html"><img src="https://github.com/hehe666-mc/---/tree/main/RapeSenpai-main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
 </p>
 <div align="center">
 
